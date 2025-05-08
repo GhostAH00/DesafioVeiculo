@@ -1,4 +1,4 @@
-# 🚗 Sistema de Estacionamento (Desafio Acadêmico)
+# 🚗 Sistema de Estacionamento (Desafio)
 
 Este projeto é parte de um **desafio proposto pelo meu professor** de programação com C#. O objetivo era criar um sistema simples de controle de entrada e saída de veículos em um estacionamento, usando **Windows Forms**, **biblioteca de classes** e **banco de dados**.
 
